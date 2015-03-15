@@ -1,0 +1,9 @@
+C:\Users\Bennett\Documents\Visual Studio 2010\Projects\CulminatingGame\CulminatingGame\bin\Release\CulminatingGame.exe
+C:\Users\Bennett\Documents\Visual Studio 2010\Projects\CulminatingGame\CulminatingGame\bin\Release\CulminatingGame.pdb
+C:\Users\Bennett\Documents\Visual Studio 2010\Projects\CulminatingGame\CulminatingGame\obj\x86\Release\Interop.WMPLib.dll
+C:\Users\Bennett\Documents\Visual Studio 2010\Projects\CulminatingGame\CulminatingGame\obj\x86\Release\CulminatingGame.csproj.ResolveComReference.cache
+C:\Users\Bennett\Documents\Visual Studio 2010\Projects\CulminatingGame\CulminatingGame\obj\x86\Release\CulminatingGame.Form1.resources
+C:\Users\Bennett\Documents\Visual Studio 2010\Projects\CulminatingGame\CulminatingGame\obj\x86\Release\CulminatingGame.Properties.Resources.resources
+C:\Users\Bennett\Documents\Visual Studio 2010\Projects\CulminatingGame\CulminatingGame\obj\x86\Release\CulminatingGame.csproj.GenerateResource.Cache
+C:\Users\Bennett\Documents\Visual Studio 2010\Projects\CulminatingGame\CulminatingGame\obj\x86\Release\CulminatingGame.exe
+C:\Users\Bennett\Documents\Visual Studio 2010\Projects\CulminatingGame\CulminatingGame\obj\x86\Release\CulminatingGame.pdb

@@ -1,0 +1,28 @@
+C:\Users\Period 2.BM-CS-10\AppData\Local\Temporary Projects\CulminatingGame\bin\Debug\CulminatingGame.exe
+C:\Users\Period 2.BM-CS-10\AppData\Local\Temporary Projects\CulminatingGame\bin\Debug\CulminatingGame.pdb
+C:\Users\Period 2.BM-CS-10\AppData\Local\Temporary Projects\CulminatingGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Period 2.BM-CS-10\AppData\Local\Temporary Projects\CulminatingGame\obj\x86\Debug\CulminatingGame.Form1.resources
+C:\Users\Period 2.BM-CS-10\AppData\Local\Temporary Projects\CulminatingGame\obj\x86\Debug\CulminatingGame.Properties.Resources.resources
+C:\Users\Period 2.BM-CS-10\AppData\Local\Temporary Projects\CulminatingGame\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Period 2.BM-CS-10\AppData\Local\Temporary Projects\CulminatingGame\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Period 2.BM-CS-10\AppData\Local\Temporary Projects\CulminatingGame\obj\x86\Debug\CulminatingGame.exe
+C:\Users\Period 2.BM-CS-10\AppData\Local\Temporary Projects\CulminatingGame\obj\x86\Debug\CulminatingGame.pdb
+C:\Users\Period 2.BM-CS-10\Documents\Visual Studio 2010\Projects\CulminatingGame\CulminatingGame\obj\x86\Debug\CulminatingGame.exe
+C:\Users\Period 2.BM-CS-10\Documents\Visual Studio 2010\Projects\CulminatingGame\CulminatingGame\obj\x86\Debug\CulminatingGame.pdb
+C:\Users\Period 2.BM-CS-10\Documents\Visual Studio 2010\Projects\CulminatingGame\CulminatingGame\bin\Debug\CulminatingGame.exe
+C:\Users\Period 2.BM-CS-10\Documents\Visual Studio 2010\Projects\CulminatingGame\CulminatingGame\bin\Debug\CulminatingGame.pdb
+C:\Users\Period 2.BM-CS-10\Documents\Visual Studio 2010\Projects\CulminatingGame\CulminatingGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Period 2.BM-CS-10\Documents\Visual Studio 2010\Projects\CulminatingGame\CulminatingGame\obj\x86\Debug\CulminatingGame.Form1.resources
+C:\Users\Period 2.BM-CS-10\Documents\Visual Studio 2010\Projects\CulminatingGame\CulminatingGame\obj\x86\Debug\CulminatingGame.Properties.Resources.resources
+C:\Users\Period 2.BM-CS-10\Documents\Visual Studio 2010\Projects\CulminatingGame\CulminatingGame\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Period 2.BM-CS-10\Documents\Visual Studio 2010\Projects\CulminatingGame\CulminatingGame\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Bennett\Documents\Visual Studio 2010\Projects\CulminatingGame\CulminatingGame\obj\x86\Debug\CulminatingGame.exe
+C:\Users\Bennett\Documents\Visual Studio 2010\Projects\CulminatingGame\CulminatingGame\obj\x86\Debug\CulminatingGame.pdb
+C:\Users\Bennett\Documents\Visual Studio 2010\Projects\CulminatingGame\CulminatingGame\bin\Debug\CulminatingGame.exe
+C:\Users\Bennett\Documents\Visual Studio 2010\Projects\CulminatingGame\CulminatingGame\bin\Debug\CulminatingGame.pdb
+C:\Users\Bennett\Documents\Visual Studio 2010\Projects\CulminatingGame\CulminatingGame\obj\x86\Debug\CulminatingGame.Form1.resources
+C:\Users\Bennett\Documents\Visual Studio 2010\Projects\CulminatingGame\CulminatingGame\obj\x86\Debug\CulminatingGame.Properties.Resources.resources
+C:\Users\Bennett\Documents\Visual Studio 2010\Projects\CulminatingGame\CulminatingGame\obj\x86\Debug\CulminatingGame.csproj.GenerateResource.Cache
+C:\Users\Bennett\Documents\Visual Studio 2010\Projects\CulminatingGame\CulminatingGame\obj\x86\Debug\CulminatingGame.csprojResolveAssemblyReference.cache
+C:\Users\Bennett\Documents\Visual Studio 2010\Projects\CulminatingGame\CulminatingGame\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Bennett\Documents\Visual Studio 2010\Projects\CulminatingGame\CulminatingGame\obj\x86\Debug\CulminatingGame.csproj.ResolveComReference.cache
